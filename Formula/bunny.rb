@@ -1,8 +1,8 @@
 class Bunny < Formula
   desc "Prints a random bunny (or some other animal)"
   homepage "https://github.com/chinosu/bunny"
-  url "https://github.com/Chinosu/bunny/archive/refs/tags/0.1.0.tar.gz"
-  sha256 "cd55107ab22d692cda31c01eea021a5c63250048d5002ef60aa8b3ba4fabe76e"
+  url "https://github.com/chinosu/bunny/archive/refs/tags/0.1.1.tar.gz"
+  sha256 "d44b2e8c5486c1a9706e7f8ffd9b29afb83d923c098e85cd5653a5c6159ebfa5"
   license "MIT"
 
   depends_on "zig" => :build
